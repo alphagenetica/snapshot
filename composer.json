@@ -1,8 +1,8 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
-	"keywords": ["framework", "laravel"],
-	"license": "MIT",
+	"name": "alphagenetica/snapshot",
+	"description": "Easy provisioning and testing of web applications",
+	"keywords": ["ci", "git"],
+	"license": "proprietary",
 	"type": "project",
 	"require": {
 		"laravel/framework": "4.2.*"
